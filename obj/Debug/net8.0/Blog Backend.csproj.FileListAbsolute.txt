@@ -1,0 +1,58 @@
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\Blog Backend.csproj.AssemblyReference.cache
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\Blog Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\Blog Backend.AssemblyInfoInputs.cache
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\Blog Backend.AssemblyInfo.cs
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\Blog Backend.csproj.CoreCompileInputs.cache
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\Blog Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\Blog Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\appsettings.json
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Blog Backend.exe
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Blog Backend.deps.json
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Blog Backend.runtimeconfig.json
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Blog Backend.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Blog Backend.pdb
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\DnsClient.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Snappier.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Supabase.Core.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Supabase.Gotrue.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Supabase.Postgrest.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\staticwebassets\msbuild.Blog Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Blog Backend.props
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Blog Backend.props
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Blog Backend.props
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\scopedcss\bundle\Blog Backend.styles.css
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\Blog Bac.6F8B245B.Up2Date
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\Blog Backend.dll
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\refint\Blog Backend.dll
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\Blog Backend.pdb
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\Blog Backend.genruntimeconfig.cache
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\ref\Blog Backend.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\MimeMapping.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Supabase.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Supabase.Functions.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Supabase.Realtime.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Supabase.Storage.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Websocket.Client.dll
