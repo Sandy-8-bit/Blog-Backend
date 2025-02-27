@@ -56,3 +56,5 @@ C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Supabase.Realtime.dll
 C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Supabase.Storage.dll
 C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\System.Reactive.dll
 C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Websocket.Client.dll
+C:\Users\santh\source\repos\Blog Backend\obj\Debug\net8.0\Blog Backend.sourcelink.json
+C:\Users\santh\source\repos\Blog Backend\bin\Debug\net8.0\Blazored.LocalStorage.dll

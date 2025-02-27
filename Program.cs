@@ -1,12 +1,22 @@
 ﻿using Backend.Models;
+using MongoDB.Driver;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configure MongoDB Settings
 builder.Services.Configure<MongoDbSettings>(
     builder.Configuration.GetSection("MongoDB"));
 
-builder.Services.AddSingleton<SlideService>();
+// Register MongoDB Client
+var mongoSettings = builder.Configuration.GetSection("MongoDB").Get<MongoDbSettings>();
+var mongoClient = new MongoClient(mongoSettings!.ConnectionString);
+var mongoDatabase = mongoClient.GetDatabase(mongoSettings.DatabaseName);
 
+builder.Services.AddSingleton<IMongoClient>(mongoClient);
+builder.Services.AddSingleton<IMongoDatabase>(mongoDatabase);
+
+// Register SlideService
+builder.Services.AddSingleton<SlideService>();
 
 // Configure CORS
 builder.Services.AddCors(options =>

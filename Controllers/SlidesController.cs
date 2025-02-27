@@ -44,4 +44,45 @@ public class SlideController : ControllerBase
         await _slideService.CreateSlideAsync(slide);
         return CreatedAtAction(nameof(GetSlideById), new { id = slide.Id }, slide);
     }
+
+    // Like a slide
+    [HttpPost("{id}/like")]
+    public async Task<IActionResult> LikeSlide(string id, [FromBody] LikeRequest request)
+    {
+        var success = await _slideService.LikeSlideAsync(id, request.Username);
+        return success ? Ok() : BadRequest("User has already liked this slide.");
+    }
+
+    // Unlike a slide
+    [HttpPost("{id}/unlike")]
+    public async Task<IActionResult> UnlikeSlide(string id, [FromBody] LikeRequest request)
+    {
+        var success = await _slideService.UnlikeSlideAsync(id, request.Username);
+        return success ? Ok() : BadRequest("User has not liked this slide.");
+    }
+
+    // Add a comment to a slide
+    [HttpPost("{id}/comment")]
+    public async Task<IActionResult> CommentSlide(string id, [FromBody] CommentRequest request)
+    {
+        var success = await _slideService.AddCommentAsync(id, request.Username, request.Comment);
+        return success ? Ok() : BadRequest("Failed to add comment.");
+    }
+
+    // Update slide details
+    [HttpPut("{id}")]
+    public async Task<IActionResult> UpdateSlide(string id, [FromBody] Slide slide)
+    {
+        if (id != slide.Id) return BadRequest("Slide ID mismatch.");
+        var success = await _slideService.UpdateSlideAsync(slide);
+        return success ? Ok() : NotFound();
+    }
+
+    // Delete a slide
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> DeleteSlide(string id)
+    {
+        var success = await _slideService.DeleteSlideAsync(id);
+        return success ? Ok() : NotFound();
+    }
 }
