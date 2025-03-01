@@ -76,17 +76,30 @@ public class SlideService
     // Like a slide (Ensure a user can only like once)
     public async Task<bool> LikeSlideAsync(string slideId, string username)
     {
-        var slide = await GetSlideByIdAsync(slideId);
-        if (slide == null) return false;
+        try
+        {
+            var slide = await GetSlideByIdAsync(slideId);
+            if (slide == null) return false;
 
-        // Prevent duplicate likes
-        if (slide.Likes!.Contains(username)) return false;
+            if (slide.Likes!.Contains(username))
+            {
+                slide.Likes.Remove(username);
+            }
+            else
+            {
+                slide.Likes.Add(username);
+            }
 
-        slide.Likes.Add(username);
-        var update = Builders<Slide>.Update.Set(s => s.Likes, slide.Likes);
-        var result = await _slides.UpdateOneAsync(s => s.Id == slide.Id, update);
+            var update = Builders<Slide>.Update.Set(s => s.Likes, slide.Likes);
+            var result = await _slides.UpdateOneAsync(s => s.Id == slide.Id, update);
 
-        return result.ModifiedCount > 0;
+            return result.ModifiedCount > 0;
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error updating likes: {ex.Message}");
+            return false;
+        }
     }
 
     // Unlike a slide (optional)
@@ -123,4 +136,6 @@ public class SlideService
 
         return result.ModifiedCount > 0;
     }
+
+  
 }

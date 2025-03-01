@@ -3,21 +3,71 @@
   "WorkspaceRootPath": "C:\\Users\\santh\\source\\repos\\Blog Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\pages\\popular.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\pages\\addblog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|c:\\users\\santh\\source\\repos\\blog backend\\controllers\\slidescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|solutionrelative:controllers\\slidescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|c:\\users\\santh\\source\\repos\\blog backend\\controllers\\authcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|solutionrelative:controllers\\authcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|c:\\users\\santh\\source\\repos\\blog backend\\services\\slideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|solutionrelative:services\\slideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|c:\\users\\santh\\source\\repos\\blog backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|c:\\users\\santh\\source\\repos\\blog backend\\services\\supabaseauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|solutionrelative:services\\supabaseauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\pages\\foot.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|c:\\users\\santh\\source\\repos\\blog backend\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|solutionrelative:models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santh\\source\\repos\\Blog frontend\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|c:\\users\\santh\\source\\repos\\blog backend\\supabase\\clientoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|solutionrelative:supabase\\clientoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\pages\\popular.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|c:\\users\\santh\\source\\repos\\blog backend\\services\\slideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|solutionrelative:services\\slideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\wwwroot\\js\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\pages\\blog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santh\\AppData\\Local\\Temp\\.vsdbgsrc\\44aa595dc2a1078aa662bebf92f46ec0aa83d37961bfc5ec1f12f1b995219153\\AddressBinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\pages\\addblog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|c:\\users\\santh\\source\\repos\\blog backend\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,19 +77,6 @@
       "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|c:\\users\\santh\\source\\repos\\blog backend\\controllers\\slidescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|solutionrelative:controllers\\slidescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\pages\\blog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\wwwroot\\service-worker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
@@ -47,24 +84,14 @@
       "RelativeMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|c:\\users\\santh\\source\\repos\\blog backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|c:\\users\\santh\\source\\repos\\blog backend\\blog backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|solutionrelative:blog backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -74,19 +101,12 @@
       "RelativeMoniker": "D:0:0:{DBBA4700-DDD2-4FAC-8F15-2C3AA560632E}|Blog Backend.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C62AA3FA-2258-4CE4-864F-90E6CF8BED5A}|..\\Blog frontend\\Blog frontend.csproj|c:\\users\\santh\\source\\repos\\blog frontend\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santh\\source\\repos\\Blog Backend\\Data\\BlogContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\BlogContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santh\\source\\repos\\Blog Backend\\Controllers\\BlogPostsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\BlogPostsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santh\\source\\repos\\Blog Backend\\Services\\SupabaseAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\SupabaseAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santh\\source\\repos\\Blog Backend\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -112,132 +132,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Popular.razor",
-              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\Popular.razor",
-              "RelativeDocumentMoniker": "..\\Blog frontend\\Pages\\Popular.razor",
-              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\Popular.razor",
-              "RelativeToolTip": "..\\Blog frontend\\Pages\\Popular.razor",
-              "ViewState": "AgIAAC8BAAAAAAAAAAAAADwBAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T14:20:36.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Slide.cs",
-              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Models\\Slide.cs",
-              "RelativeDocumentMoniker": "Models\\Slide.cs",
-              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Models\\Slide.cs",
-              "RelativeToolTip": "Models\\Slide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:41:30.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "..\\Blog frontend\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\Home.razor",
               "RelativeToolTip": "..\\Blog frontend\\Pages\\Home.razor",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAwwLYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T06:50:06.16Z"
+              "WhenOpened": "2025-02-20T06:50:06.16Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwDAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:33:53.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Authcontroler.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Controllers\\Authcontroler.cs",
+              "RelativeDocumentMoniker": "Controllers\\Authcontroler.cs",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Controllers\\Authcontroler.cs",
+              "RelativeToolTip": "Controllers\\Authcontroler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:11:23.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SlidesController.cs",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Controllers\\SlidesController.cs",
               "RelativeDocumentMoniker": "Controllers\\SlidesController.cs",
               "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Controllers\\SlidesController.cs",
               "RelativeToolTip": "Controllers\\SlidesController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAYwDEAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAewEwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:41:33.868Z"
+              "WhenOpened": "2025-02-20T10:41:33.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "..\\Blog frontend\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\Login.razor",
+              "RelativeToolTip": "..\\Blog frontend\\Pages\\Login.razor",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAJMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T07:02:40.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Foot.razor",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\Foot.razor",
+              "RelativeDocumentMoniker": "..\\Blog frontend\\Pages\\Foot.razor",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\Foot.razor",
+              "RelativeToolTip": "..\\Blog frontend\\Pages\\Foot.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T06:55:36.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MongoDbSettings.cs",
-              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Models\\MongoDbSettings.cs",
-              "RelativeDocumentMoniker": "Models\\MongoDbSettings.cs",
-              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Models\\MongoDbSettings.cs",
-              "RelativeToolTip": "Models\\MongoDbSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "SupabaseAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Services\\SupabaseAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\SupabaseAuthService.cs",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Services\\SupabaseAuthService.cs",
+              "RelativeToolTip": "Services\\SupabaseAuthService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:41:28.334Z"
+              "WhenOpened": "2025-02-19T10:01:16.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "bootstrap.min.css",
-              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-              "RelativeDocumentMoniker": "..\\Blog frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-              "RelativeToolTip": "..\\Blog frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-20T18:47:19.913Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Blog frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Program.cs",
+              "RelativeToolTip": "..\\Blog frontend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:44:43.369Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "SlideService.cs",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Services\\SlideService.cs",
               "RelativeDocumentMoniker": "Services\\SlideService.cs",
               "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Services\\SlideService.cs",
               "RelativeToolTip": "Services\\SlideService.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAYwA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwIsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:40:55.824Z"
+              "WhenOpened": "2025-02-20T10:40:55.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\App.razor",
-              "RelativeDocumentMoniker": "..\\Blog frontend\\App.razor",
-              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\App.razor",
-              "RelativeToolTip": "..\\Blog frontend\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Popular.razor",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\Popular.razor",
+              "RelativeDocumentMoniker": "..\\Blog frontend\\Pages\\Popular.razor",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\Popular.razor",
+              "RelativeToolTip": "..\\Blog frontend\\Pages\\Popular.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T20:35:44.856Z"
+              "WhenOpened": "2025-02-20T14:20:36.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddBlog.razor",
-              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\AddBlog.razor",
-              "RelativeDocumentMoniker": "..\\Blog frontend\\Pages\\AddBlog.razor",
-              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\AddBlog.razor",
-              "RelativeToolTip": "..\\Blog frontend\\Pages\\AddBlog.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T05:15:14.886Z"
+              "DocumentIndex": 11,
+              "Title": "ClientOptions.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Supabase\\ClientOptions.cs",
+              "RelativeDocumentMoniker": "Supabase\\ClientOptions.cs",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Supabase\\ClientOptions.cs",
+              "RelativeToolTip": "Supabase\\ClientOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:09:55.02Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "blazor.webassembly.js",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+              "RelativeDocumentMoniker": "..\\Blog frontend\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+              "RelativeToolTip": "..\\Blog frontend\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-01T07:00:13.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "..\\Blog frontend\\wwwroot\\index.html",
               "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\wwwroot\\index.html",
               "RelativeToolTip": "..\\Blog frontend\\wwwroot\\index.html",
-              "ViewState": "AgIAACIAAAAAAAAAAIBJwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-02-26T16:57:37.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "Models\\Slide.cs",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Models\\Slide.cs",
+              "RelativeToolTip": "Models\\Slide.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:41:30.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Blog.razor",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\Blog.razor",
               "RelativeDocumentMoniker": "..\\Blog frontend\\Pages\\Blog.razor",
@@ -249,7 +326,92 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "..\\Blog frontend\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "..\\Blog frontend\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T06:50:43.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\App.razor",
+              "RelativeDocumentMoniker": "..\\Blog frontend\\App.razor",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\App.razor",
+              "RelativeToolTip": "..\\Blog frontend\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T20:35:44.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "..\\Blog frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "..\\Blog frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-20T18:47:19.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Models\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "Models\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Models\\MongoDbSettings.cs",
+              "RelativeToolTip": "Models\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:41:28.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "weather.json",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\wwwroot\\js\\weather.json",
+              "RelativeDocumentMoniker": "..\\Blog frontend\\wwwroot\\js\\weather.json",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\wwwroot\\js\\weather.json",
+              "RelativeToolTip": "..\\Blog frontend\\wwwroot\\js\\weather.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T07:08:57.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddressBinder.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\AppData\\Local\\Temp\\.vsdbgsrc\\44aa595dc2a1078aa662bebf92f46ec0aa83d37961bfc5ec1f12f1b995219153\\AddressBinder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\44aa595dc2a1078aa662bebf92f46ec0aa83d37961bfc5ec1f12f1b995219153\\AddressBinder.cs",
+              "ToolTip": "C:\\Users\\santh\\AppData\\Local\\Temp\\.vsdbgsrc\\44aa595dc2a1078aa662bebf92f46ec0aa83d37961bfc5ec1f12f1b995219153\\AddressBinder.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\44aa595dc2a1078aa662bebf92f46ec0aa83d37961bfc5ec1f12f1b995219153\\AddressBinder.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:19:54.134Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddBlog.razor",
+              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\AddBlog.razor",
+              "RelativeDocumentMoniker": "..\\Blog frontend\\Pages\\AddBlog.razor",
+              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Pages\\AddBlog.razor",
+              "RelativeToolTip": "..\\Blog frontend\\Pages\\AddBlog.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T05:15:14.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Blog Backend.csproj",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Blog Backend.csproj",
               "RelativeDocumentMoniker": "Blog Backend.csproj",
@@ -261,19 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAvwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T10:33:53.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -285,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "service-worker.js",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\wwwroot\\service-worker.js",
               "RelativeDocumentMoniker": "..\\Blog frontend\\wwwroot\\service-worker.js",
@@ -297,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "MainLayout.razor.css",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Layout\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "..\\Blog frontend\\Layout\\MainLayout.razor.css",
@@ -309,19 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "..\\Blog frontend\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "..\\Blog frontend\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAC0AAAAAAAAAAIBJwDYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T06:50:43.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "..\\Blog frontend\\wwwroot\\css\\app.css",
@@ -333,19 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Blog frontend\\Program.cs",
-              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\Program.cs",
-              "RelativeToolTip": "..\\Blog frontend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:44:43.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\_Imports.razor",
               "RelativeDocumentMoniker": "..\\Blog frontend\\_Imports.razor",
@@ -357,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -369,19 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "weather.json",
-              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog frontend\\wwwroot\\sample-data\\weather.json",
-              "RelativeDocumentMoniker": "..\\Blog frontend\\wwwroot\\sample-data\\weather.json",
-              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog frontend\\wwwroot\\sample-data\\weather.json",
-              "RelativeToolTip": "..\\Blog frontend\\wwwroot\\sample-data\\weather.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-20T07:08:57.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "BlogContext.cs",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Data\\BlogContext.cs",
               "RelativeDocumentMoniker": "Data\\BlogContext.cs",
@@ -392,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "BlogPostsController.cs",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Controllers\\BlogPostsController.cs",
               "RelativeDocumentMoniker": "Controllers\\BlogPostsController.cs",
@@ -403,18 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SupabaseAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Services\\SupabaseAuthService.cs",
-              "RelativeDocumentMoniker": "Services\\SupabaseAuthService.cs",
-              "ToolTip": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Services\\SupabaseAuthService.cs",
-              "RelativeToolTip": "Services\\SupabaseAuthService.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T10:01:16.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
@@ -425,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -436,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "BlogPost.cs",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Models\\BlogPost.cs",
               "RelativeDocumentMoniker": "Models\\BlogPost.cs",
@@ -447,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "AuthResponse.cs",
               "DocumentMoniker": "C:\\Users\\santh\\source\\repos\\Blog Backend\\Models\\AuthResponse.cs",
               "RelativeDocumentMoniker": "Models\\AuthResponse.cs",

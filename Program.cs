@@ -14,6 +14,7 @@ var mongoDatabase = mongoClient.GetDatabase(mongoSettings.DatabaseName);
 
 builder.Services.AddSingleton<IMongoClient>(mongoClient);
 builder.Services.AddSingleton<IMongoDatabase>(mongoDatabase);
+builder.Services.AddScoped<SupabaseAuthService>();
 
 // Register SlideService
 builder.Services.AddSingleton<SlideService>();
@@ -25,7 +26,8 @@ builder.Services.AddCors(options =>
     {
         policy.WithOrigins("https://localhost:7037") // Your Blazor frontend URL
               .AllowAnyMethod()
-              .AllowAnyHeader();
+              .AllowAnyHeader()
+              .AllowCredentials(); // Allow cookies & authentication headers
     });
 });
 

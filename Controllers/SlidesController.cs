@@ -49,15 +49,23 @@ public class SlideController : ControllerBase
     [HttpPost("{id}/like")]
     public async Task<IActionResult> LikeSlide(string id, [FromBody] LikeRequest request)
     {
-        var success = await _slideService.LikeSlideAsync(id, request.Username);
-        return success ? Ok() : BadRequest("User has already liked this slide.");
+        try
+        {
+            var success = await _slideService.LikeSlideAsync(id, request.Username!);
+            return success ? Ok() : BadRequest("Error processing like/unlike request.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error in LikeSlide API: {ex.Message}");
+            return StatusCode(500, "Internal server error");
+        }
     }
 
     // Unlike a slide
     [HttpPost("{id}/unlike")]
     public async Task<IActionResult> UnlikeSlide(string id, [FromBody] LikeRequest request)
     {
-        var success = await _slideService.UnlikeSlideAsync(id, request.Username);
+        var success = await _slideService.UnlikeSlideAsync(id, request.Username!);
         return success ? Ok() : BadRequest("User has not liked this slide.");
     }
 
@@ -65,7 +73,7 @@ public class SlideController : ControllerBase
     [HttpPost("{id}/comment")]
     public async Task<IActionResult> CommentSlide(string id, [FromBody] CommentRequest request)
     {
-        var success = await _slideService.AddCommentAsync(id, request.Username, request.Comment);
+        var success = await _slideService.AddCommentAsync(id, request.Username!, request.Comment!);
         return success ? Ok() : BadRequest("Failed to add comment.");
     }
 
